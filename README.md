@@ -19,3 +19,8 @@ An automated monitoring tool that brings OLX marketplace updates directly to you
 2. **Dependencies:** `pip install -r requirements.txt`
 3. **Security:** Add your `DISCORD_TOKEN` to your environment variables (do not hardcode it in `main.py`).
 4. **Execution:** `python main.py`
+
+
+## ⚠️ Disclaimer
+This project is for **educational purposes only**. Scraper logic is intended to demonstrate web automation techniques. 
+Please be aware that automated scraping of OTOMOTO/OLX may violate their Terms of Service. The author is not responsible for any misuse of this software, account bans, or legal consequences resulting from its use. Use it at your own risk and respect the websites' `robots.txt` and rate limits.
